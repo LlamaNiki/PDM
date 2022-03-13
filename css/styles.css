@@ -49,7 +49,7 @@ body, html {
 h1 {
   font-family: "Montserrat";
   font-weight: normal;
-  font-size: 1rem;
+  font-size: 3rem;
   text-align: center;
   color: #778296;
   padding-bottom: 4%;
@@ -83,6 +83,7 @@ p {
 /* Responsiveness */
 @media (max-width: 1028px) {
   h1{
+    font-size: 1rem;
     position: static;
   }
   }
