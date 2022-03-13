@@ -67,11 +67,12 @@ h1 {
 
 h2{
   text-align: center;
-  padding-top: 2rem;
+  padding-top: 4rem;
 }
 
 p {
-  padding: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
 }
 
 #footer {
