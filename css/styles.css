@@ -55,6 +55,10 @@ h1 {
   margin: 0;
 }
 
+big-heading {
+  margin:0;
+}
+
 .container {
   padding-top: 70%;
 }
