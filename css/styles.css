@@ -51,16 +51,18 @@ h1 {
   font-size: 7rem;
   text-align: center;
   color: #778296;
-  position: absolute;
+  padding-bottom: 4%;
+  margin: 0;
 }
 
 .container {
-  padding-top: 75%;
+  padding-top: 70%;
 }
 
 .contact{
   background-color: #b791b9;
   color: White;
+  z-index: 1;
 }
 
 h2{
@@ -70,6 +72,10 @@ h2{
 
 p {
   padding: 2rem;
+}
+
+#footer {
+  z-index: 1;
 }
 
 /* Responsiveness */
