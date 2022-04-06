@@ -1,0 +1,37 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: #3b3b56;
+  color: white;
+}
+
+.contact{
+  background-color: #b791b9;
+  color: White;
+  z-index: 1;
+}
+
+h2{
+  text-align: center;
+  padding-top: 2rem;
+}
+
+p {
+  padding: 2rem;
+}
+
+hr {
+  border: 2px solid #3b3b56;
+border-radius: 5px;
+}
+
+.card {
+  padding: 1rem;
+  margin: 2rem;
+  background-color: #b791b9;
+}
+
+#footer {
+  z-index: 1;
+}

@@ -2,7 +2,6 @@ body, html {
   height: 100%;
   width: 100%;
   text-align: center;
-  background-color: #b791b9;
 }
 
 .colored-section {
@@ -49,7 +48,7 @@ body, html {
 h1 {
   font-family: "Montserrat";
   font-weight: normal;
-  font-size: 3rem;
+  font-size: 7rem;
   text-align: center;
   color: #778296;
   padding-bottom: 4%;
@@ -57,7 +56,7 @@ h1 {
 }
 
 .container {
-  padding-top: 30%;
+  padding-top: 70%;
 }
 
 .contact{
@@ -68,12 +67,11 @@ h1 {
 
 h2{
   text-align: center;
-  padding-top: 4rem;
+  padding-top: 2rem;
 }
 
 p {
-  padding-top: 6rem;
-  padding-bottom: 4rem;
+  padding: 2rem;
 }
 
 #footer {
@@ -83,10 +81,6 @@ p {
 /* Responsiveness */
 @media (max-width: 1028px) {
   h1{
-    font-size: 1rem;
     position: static;
-  }
-  h3{
-    font-size:1rem;
   }
   }
